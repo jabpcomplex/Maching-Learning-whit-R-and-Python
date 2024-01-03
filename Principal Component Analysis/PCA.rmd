@@ -1,0 +1,2 @@
+Los grandes conjuntos de datos están cada vez más extendidos en muchas disciplinas. Para interpretar dichos conjuntos de datos, se requieren métodos para reducir drásticamente su dimensionalidad de una manera interpretable, de modo que se conserve la mayor parte de la información de los datos. Muchas técnicas han sido
+desarrollado para este propósito, pero el análisis de componentes principales ha tomado mayor importancia en los últimos años.
