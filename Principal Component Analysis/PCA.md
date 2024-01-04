@@ -2,7 +2,7 @@ Los grandes conjuntos de datos están cada vez más extendidos en muchas discipl
 de una manera eficiente, de modo que se conserve la mayor parte de la información de los datos. Muchas técnicas han sido desarrolladas para este propósito, pero el análisis de componentes principales (PCA) 
 ha tomado mayor importancia en los últimos años.
 
-PCA es una herramienta de análisis estadístico para analisis de datos exploratorio. Un conjunto de datos grande es de la forma $p$ variables numéricas, para cada $n$ entidades o individuos. Estos valores de datos definen $p$ vectores n-dimensionales $x_1, \cdots , x_p$ o, equivalentemente, un dataframe o matriz '$\textbf{X}$' de $n x p$ entradas, cuya $j$-ésima columna es el vector $x_j$ de observaciones sobre la $j$-ésima variable. Buscamos una combinación lineal de las columnas de la matriz $\textbf{X}$ con máxima varianza. Tales combinaciones lineales están dadas por
+PCA es una herramienta de análisis estadístico para analisis de datos exploratorio. Un conjunto de datos grande es de la forma $p$ variables numéricas, para cada $n$ entidades o individuos. Estos valores de datos definen $p$ vectores n-dimensionales $x_1, \cdots , x_p$ o, equivalentemente, un dataframe o matriz $\textbf{X}$ de $n x p$ entradas, cuya $j$-ésima columna es el vector $x_j$ de observaciones sobre la $j$-ésima variable. Buscamos una combinación lineal de las columnas de la matriz $\textbf{X}$ con máxima varianza. Tales combinaciones lineales están dadas por
 
 $$ \sum_{j=1}^p = a_jx_j= \textbf{X} \textbf{a} $$
 
