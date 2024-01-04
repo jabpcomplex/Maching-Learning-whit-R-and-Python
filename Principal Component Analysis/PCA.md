@@ -6,7 +6,7 @@ PCA es una herramienta de análisis estadístico para analisis de datos explorat
 
 $$ \sum_{j=1}^p = a_jx_j= \textbf{X} \textbf{a} $$
 
-donde \textbf{a} es un vector de constantes $a_1, \cdots , a_p$. La varianza de cualquier combinación lineal de este tipo viene dada por $var(Xa) = a'Sa$, donde $S$ es la matriz de covarianza de muestra asociada con el conjunto de datos y $a'$ es el vector transpuesto de a.
+donde $\textbf{a}$ es un vector de constantes $a_1, \cdots , a_p$. La varianza de cualquier combinación lineal de este tipo viene dada por $var(Xa) = a'Sa$, donde $S$ es la matriz de covarianza de muestra asociada con el conjunto de datos y $a'$ es el vector transpuesto de a.
 
 
 
